@@ -15,4 +15,4 @@ There are seven exercises.  Below, are the file names and a brief summary of eac
 - ```07_DoublingNumbers.ipynb``` &nbsp; &nbsp; Find the sum of doubled numbers in range of numbers.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md] (LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/knishina/python_recursion/blob/master/LICENSE) file for details.
