@@ -5,7 +5,7 @@
 This folder ```python_recursion```,  is an exploration of recursion using Python 3.6.7.  There are seven exercises, one per Jupyter Notebook file.  The format of each file is as follows: an iterative function, a recursive function, and tests to ensure both functions perform correctly.
 
 ### Exercises.
-There are seven exercises.  Below, are the files and a brief summary of each.
+There are seven exercises.  Below, are the folders and a brief summary of each.  Each file has an ipynb file, an executable .py file, and a test file (unit tests).
 - ```01_SumOfList``` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Find the sum of a list.
 - ```02_CounterOfList``` &nbsp; &nbsp; &nbsp;&nbsp; Find the number of members in a list.
 - ```03_MaxOfList``` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Find the maximum value of a list.
