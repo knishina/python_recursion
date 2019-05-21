@@ -17,7 +17,7 @@ There are seven exercises.  Below, are the files and a brief summary of each.
 ### To Run:
 - open a terminal/bash window.  Pull the files to the desktop: `git clone https://github.com/knishina/python_recursion.git`
 - cd into the file you would like to explore.
-- type `python <filename>.py to run.
+- type `python <filename>.py` to run.
 - type `pytest` to run the unit tests of the <fliename>.py<br />
 &nbsp; &nbsp; &nbsp; &nbsp; - if it does not run, type in `pip install -U pytest`
 
