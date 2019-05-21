@@ -1,7 +1,7 @@
 def fibbs(n):
     """
     Input: the nth number.
-    OUtput: the number of the Fibonacci sequence via iteration.
+    Output: the number of the Fibonacci sequence via iteration.
     """
     sequence = []
     for i in range(n+1):
